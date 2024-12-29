@@ -67,4 +67,3 @@ Si deseas contribuir:
    git checkout -b feature/nueva-funcionalidad
    ```
 3. Realiza un pull request con tus cambios.
-=
